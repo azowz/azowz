@@ -24,8 +24,9 @@
 
 ### 🧩 Data Science & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas,scikitlearn,matplotlib,seaborn" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,pandas,scikitlearn,matplotlib,seaborn" height="50"/>
 </p>
+
 
 ### ⚡ Backend Development
 <p align="center">
