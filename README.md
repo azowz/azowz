@@ -1,49 +1,43 @@
-<!-- HEADER -->
+<!-- ===================== -->
+<!--        HEADER         -->
+<!-- ===================== -->
 
 <h1 align="center">👋 Hi, I'm <b>Abdulaziz Hkeem</b> (azowz)</h1>
 
 <h3 align="center">
-
-AI Engineer • Quant Systems Builder • Agentic AI
-
+AI Engineer • Quant Systems Architect • Agentic AI Builder
 </h3>
 
 <p align="center">
-
-I build <b>intelligent, autonomous systems</b> that turn data into decisions —
-
-across trading, finance, and domain-specific automation.
-
+I engineer <b>autonomous, decision-driven AI systems</b> that transform raw data into
+<b>reliable, explainable actions</b> — across finance, trading, and domain-specific automation.
 </p>
 
 <p align="center">
-
   <img src="https://komarev.com/ghpvc/?username=azowz&color=blueviolet" alt="Profile Views"/>
-
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I design and engineer **production-grade AI systems** that combine:
+I design and build **production-grade AI systems**, not demos.
 
-- quantitative research  
+My work sits at the intersection of:
 
-- machine learning  
+- quantitative modeling  
+- machine learning & deep learning  
+- autonomous agent orchestration  
 
-- autonomous decision-making  
+I focus on **end-to-end intelligence pipelines** — from data ingestion to
+decision execution — with strong emphasis on **robustness, explainability, and scale**.
 
-My work focuses on **turning raw data into actionable intelligence**, especially in:
-
-- 📈 Financial markets & quantitative trading  
-
-- ⚖️ Legal & domain-specific AI systems  
-
-- 🤖 Agentic AI & workflow automation  
+**Primary domains:**
+- 📈 Quantitative trading & financial intelligence  
+- ⚖️ Legal & domain-specific AI systems (Arabic & English)  
+- 🤖 Agentic AI, RAG pipelines & workflow automation  
 
 📍 Medina, Saudi Arabia  
-
 📧 **abdulazizhkeem9@gmail.com**
 
 ---
@@ -51,57 +45,67 @@ My work focuses on **turning raw data into actionable intelligence**, especially
 ## ⚙️ Technical Arsenal
 
 ### 🧠 Core Engineering
-
 <p align="center">
-
   <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,linux,bash" height="50"/>
-
 </p>
 
-### 🧩 Machine Learning & Data Science
+---
 
+### 🧩 Machine Learning & Statistical Modeling
 <p align="center">
-
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas,scikitlearn,matplotlib,seaborn" height="50"/>
-
 </p>
 
-### ⚡ Backend & Infrastructure
+---
 
+### 🧠 Deep Learning & Representation Learning
 <p align="center">
+  <img src="https://img.shields.io/badge/Transformers-LLM_Architectures-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-Semantic_Representations-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Attention-Mechanisms-black?style=for-the-badge"/>
+</p>
 
+---
+
+### 🤖 LLM Systems, RAG & Agentic AI
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-Vector_Search-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Systematic_Design-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-Tool_Orchestration-orange?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚡ Backend, APIs & MLOps
+<p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,flask,postgresql,sqlite,docker,vercel" height="50"/>
-
 </p>
 
-### 💹 Quantitative Finance Libraries
-
 <p align="center">
-
-  <img src="https://img.shields.io/badge/TA--Lib-Financial_Indicators-blue?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/badge/yFinance-Market_Data-brightgreen?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/badge/Backtrader-Backtesting-black?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/badge/AlphaVantage-API-orange?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/badge/ccxt-Crypto_Exchanges-yellow?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/REST_APIs-Scalable_Services-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Async_Python-Concurrency-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model_Evaluation-LLM_Metrics-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Experiment_Tracking-Reproducibility-green?style=for-the-badge"/>
 </p>
 
-### 🤖 LLMs, Agents & NLP
+---
 
+### 💹 Quantitative Finance & Risk
 <p align="center">
+  <img src="https://img.shields.io/badge/Alpha_Factors-Feature_Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backtesting-Strategy_Validation-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Risk_Metrics-Sharpe,_Drawdown,_Volatility-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Market_Microstructure-Foundations-orange?style=for-the-badge"/>
+</p>
 
-  <img src="https://img.shields.io/badge/OpenAI_API-LLMs-blue?style=for-the-badge"/>
+---
 
-  <img src="https://img.shields.io/badge/LangChain-Agentic_Systems-green?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/badge/DSPy-LLM_Optimization-red?style=for-the-badge"/>
-
+### 📊 Data Engineering & Time-Series
+<p align="center">
+  <img src="https://img.shields.io/badge/ETL-Pipeline_Design-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Cleaning-Quality_Control-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Time_Series-Sequential_Data-black?style=for-the-badge"/>
 </p>
 
 ---
@@ -109,141 +113,87 @@ My work focuses on **turning raw data into actionable intelligence**, especially
 ## 🚀 Featured Projects
 
 ### 🧠 AI Trader Stock — Quantitative Trading Intelligence System
+> AI-driven backend that transforms market data into **explainable, automated trading signals**.
 
-> AI-driven trading backend that transforms market data into **explainable, automated trading signals**.
-
-🔗 **Repository:** https://github.com/azowz/ai_treader_stock  
-
-📦 **Stack:** FastAPI • PostgreSQL • TA-Lib • yFinance • Pandas  
+🔗 Repository: https://github.com/azowz/ai_treader_stock  
+📦 Stack: FastAPI • PostgreSQL • TA-Lib • yFinance • Pandas  
 
 **Key Capabilities**
-
 - Automated technical indicator generation  
-
-- Feature engineering (RSI, MACD, EMA, ATR)  
-
-- Real-time signal prediction  
-
-- RESTful API with database integration  
+- Alpha feature engineering (RSI, MACD, EMA, ATR)  
+- Signal inference & strategy evaluation  
+- Scalable REST API with persistent storage  
 
 **Why it matters**
-
-- Bridges quantitative research with real-time decision systems  
-
-- Designed as a scalable backend, not a research notebook  
-
-<p align="center">
-
-  <img src="https://raw.githubusercontent.com/azowz/ai_treader_stock/main/assets/demo_chart.gif" width="85%"/>
-
-</p>
+- Bridges quantitative research with real-time systems  
+- Built as an extensible backend — not a research notebook  
 
 ---
 
 ### ⚖️ Legal AI Assistant — Domain-Specific LLM Agent
+> Arabic-first legal AI assistant for Saudi labor law memo drafting.
 
-> AI assistant trained on Saudi labor law data for automatic legal memo drafting.
-
-🔗 **Repository:** https://github.com/azowz/labor-law-assistant  
-
-📦 **Stack:** LangChain • OpenAI API • FastAPI • PostgreSQL  
+🔗 Repository: https://github.com/azowz/labor-law-assistant  
+📦 Stack: LangChain • OpenAI API • FastAPI • PostgreSQL  
 
 **Key Capabilities**
-
-- Text extraction from legal documents (PDF / HTML)  
-
-- Arabic legal prompt-engineering  
-
-- Domain-specific fine-tuning for higher accuracy  
+- Legal document ingestion (PDF / HTML)  
+- Arabic prompt engineering & RAG  
+- Domain adaptation for higher factual accuracy  
 
 **Why it matters**
-
-- Demonstrates LLM domain adaptation in Arabic legal context  
-
-- Reduces manual legal drafting time significantly  
-
-<p align="center">
-
-  <img src="https://raw.githubusercontent.com/azowz/labor-law-assistant/main/assets/legalai_preview.png" width="85%"/>
-
-</p>
+- Real LLM deployment in a regulated domain  
+- Significant reduction in legal drafting time  
 
 ---
 
 ### 💰 AI Ad Agent — Autonomous Multi-Agent System
+> Multi-agent platform that runs and optimizes paid ad campaigns using AI.
 
-> Multi-agent automation platform that runs and optimizes paid ads using AI.
-
-🔗 **Repository:** https://github.com/azowz/ai_agent_ads  
-
-📦 **Stack:** n8n • FastAPI • LangChain • Google Ads API • OpenAI  
+🔗 Repository: https://github.com/azowz/ai_agent_ads  
+📦 Stack: n8n • FastAPI • LangChain • Google Ads API • OpenAI  
 
 **Key Capabilities**
-
-- Campaign scheduling & budget control  
-
-- AI-driven ad performance analysis  
-
-- Automated payment & optimization workflows  
+- Budget-aware campaign orchestration  
+- AI-driven performance analysis  
+- Automated optimization & scheduling  
 
 **Why it matters**
-
-- Real-world agent orchestration  
-
-- Combines AI reasoning with business constraints (budget & ROI)  
-
-<p align="center">
-
-  <img src="https://raw.githubusercontent.com/azowz/ai_agent_ads/main/assets/dashboard_preview.png" width="85%"/>
-
-</p>
+- Demonstrates agent coordination under business constraints  
+- Clear ROI-driven automation use-case  
 
 ---
 
 ## 📚 Research & Experimental Labs
 
 | Area | Focus | Repository |
-
-|----|----|----|
-
-| Quantitative Finance | Feature engineering, backtesting, risk metrics | https://github.com/azowz/quant-research-lab |
-
-| Generative AI | Prompt engineering & fine-tuning | https://github.com/azowz/gen-ai-prompts |
-
-| Arabic NLP | Tokenization, embeddings, fine-tuning | https://github.com/azowz/nlp-finetuning-lab |
+|---|---|---|
+| Quantitative Finance | Alpha research, backtesting, risk | https://github.com/azowz/quant-research-lab |
+| Generative AI | Prompting, fine-tuning, evaluation | https://github.com/azowz/gen-ai-prompts |
+| Arabic NLP | Tokenization, embeddings, tuning | https://github.com/azowz/nlp-finetuning-lab |
 
 ---
 
 ## 🧾 Certifications
 
 | Certificate | Issuer | Year |
-
-|----|----|----|
-
+|---|---|---|
 | Oracle Cloud Generative AI Professional | Oracle | 2025 |
-
 | Generative AI Bootcamp (512h) | Saudi Digital Academy & WeCloudData | 2025 |
-
 | MITx Data Science MicroMasters | edX | In Progress |
-
 | Deep Learning Specialization | Coursera | 2024 |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=azowz&show_icons=true&theme=radical" width="48%"/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=azowz&theme=radical" width="48%"/>
-
 </p>
 
 <p align="center">
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=azowz&theme=react-dark" width="95%"/>
-
 </p>
 
 ---
@@ -251,42 +201,24 @@ My work focuses on **turning raw data into actionable intelligence**, especially
 ## 🧭 Connect With Me
 
 <p align="center">
-
   <a href="mailto:abdulazizhkeem9@gmail.com">
-
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
-
   </a>
-
   <a href="https://www.linkedin.com/in/abdulazizhkeem">
-
     <img src="https://img.shields.io/badge/LinkedIn-Abdulaziz_Hkeem-blue?style=for-the-badge&logo=linkedin"/>
-
   </a>
-
   <a href="https://www.kaggle.com/abdulazizhkeem">
-
     <img src="https://img.shields.io/badge/Kaggle-Profile-teal?style=for-the-badge&logo=kaggle"/>
-
   </a>
-
   <a href="https://t.me/azo_wz">
-
     <img src="https://img.shields.io/badge/Telegram-@azo__wz-blue?style=for-the-badge&logo=telegram"/>
-
   </a>
-
 </p>
 
 ---
 
 <p align="center">
-
 <i>
-
 I don’t just use AI — I engineer systems that think, decide, and scale.
-
 </i>
-
 </p>
-
